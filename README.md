@@ -1,4 +1,4 @@
-# Preco-Combustiveis-Paraiba
+# Preço de Combustiveis na Paraíba
 Estudo do banco de dados de preços de combustíveis fósseis no Brasil a partir do banco de dados da Agência Nacional de Petróleo. 
 
 A partir das informações fornecidas no arquivo "2004-2019.tsv" que fornece diversos valores a respeito dos preços máximo, preços mínimos, preços médios tanto de distribuição quanto de revenda dos combustíveis. Além ainda medidas de dispersão a respeito desses dados. 
